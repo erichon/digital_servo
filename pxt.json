@@ -1,5 +1,5 @@
 {
-    "name": "digital_servo",
+    "name": "vr-control",
     "description": "",
     "dependencies": {
         "core": "*",
